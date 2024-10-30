@@ -1,0 +1,116 @@
+Hi there 👋
+Welcome to my Salesforce Developer repository! This repository contains various projects and resources related to Salesforce development, including Apex classes, Visualforce pages, Lightning components, and custom Salesforce solutions.
+
+Table of Contents
+
+#about-me
+#technologies-used
+#projects
+#installation
+#usage
+#contributing
+#license
+
+## About Me
+
+I am a Salesforce Developer passionate about building innovative solutions that drive business success. With experience in Apex, Visualforce, and Lightning, I enjoy collaborating with cross-functional teams to deliver high-quality applications.
+
+## Technologies Used
+
+- Salesforce Apex
+- Visualforce
+- Lightning Web Components (LWC)
+- Git & GitHub
+- REST/SOAP APIs
+
+## Projects
+
+### Project 1: [Kaseya]
+**Description**:
+  
+            . Kaseya provides cloud-based IT management and security software that enables IT organizations
+              and Debook Rebook Tool to automatically cancel multiple subscriptions.
+  **Key activities performed**:
+  
+            . Analyzing requirements and Involving in the development of modules.
+            . Involved in debugging, troubleshooting, and taking responsibility to see that the issue is fully resolved.
+            . Worked on various Salesforce CPQ requirements.
+            . Involved in setting products, bundles and products and pricing rules.
+            . Implemented out of box configuration of discounting, pricing methods and output document generation.
+            . Implemented advanced approvals in salesforce to simplify approval process for Sales Ops.
+            . Implemented Web Service Callouts from Salesforce to external applications using REST API.
+            . Created connected apps for integration.
+            . Worked on JIRA tool for tracking the enhancements and developments, managed and coordinated with offshore team
+              and got the user stories delivered to the client on time within the sprints.
+            . Gathered user requirements and was involved in application design discussions and documentation.
+            . Proactively identified areas of improvement and functional gaps in Salesforce Applications
+            . Worked on document generation with merge fields using Conga.
+            . Worked on advance formula fields creation.
+            . Worked on the designing of custom objects, custom fields, page layouts, custom Tabs, custom reports, report folders,
+              design of Visual Force Pages, Dashboards and various other components as per the client and application requirements.
+            . Used SOQL in Apex Triggers, Controllers and Database methods for performing DML operations.
+            . Created Test classes for unit testing of the apex classes.
+            . Created roles, profiles and implemented security and sharing rules at object, field, and record level for different users at
+              different levels of the organization.
+            . Implemented the approval process and workflow rules to automate existing business processes.
+            . Implemented pick lists, dependent pick lists, lookups, master-detail relationships, validation and formula fields to the
+              custom objects.
+            . Created and maintained reports and dashboards to provide fast access to key business metrics.
+            . Prepared Technical Design Documents and deployment plans as per user stories and bugs.
+  
+**Technologies**:
+
+  Tools: Data Loader, Workbench, Force.com platform, Visual Studio Code.
+  
+  Technologies: Salesforce
+  
+  Skills: Salesforce CRM, Salesforce Lightning Experience, Visualforce Pages, Apex Classes, Apex Triggers, Flows, JavaScript.
+
+
+### Project 2: [Project Name]
+- **Description**: Brief description of the project.
+- **Features**: List of key features.
+- **Technologies**: Technologies used in the project.
+
+## Installation
+
+To install the projects in this repository:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
+   ```
+
+2. Deploy the code to your Salesforce org using Salesforce DX or change sets.
+
+## Usage
+
+- Instructions on how to use the projects, if applicable.
+- Include examples or screenshots if necessary.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a pull request or open an issue if you have suggestions or improvements.
+
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature-branch
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m "Description of changes"
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature-branch
+   ```
+5. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+Feel free to customize any sections to better reflect your personal style and the specific projects you want to highlight!
